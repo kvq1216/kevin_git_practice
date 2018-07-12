@@ -1,2 +1,3 @@
-This is reflection txt 1
-add conflict 
+This is reflection txt 1ç
+do no add conflictd
+>>>>>>> new_origin/master
